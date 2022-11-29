@@ -1,2 +1,2 @@
-# Clone_SiteApple
-Criando clone do site da Apple - iPhone 13 Pro!
+# LandingPage_Apple
+Criando LP do site da Apple - iPhone 13 Pro!
